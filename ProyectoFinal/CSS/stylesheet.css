@@ -1,0 +1,70 @@
+header {
+	border-bottom: 1% solid;
+	overflow: hidden;
+}
+
+h1 {
+	float: left;
+	margin: 0%;
+	font-family: Futura, sans-serif;
+	font-weight: bolder;
+	font-size: 4.5em;
+	text-align: center;
+	color: white;
+	float: center;
+}
+
+
+body {
+	font-family: Futura, sans-serif;
+}
+
+#nav {
+	text-align: center;
+	text-decoration: none;
+	float: center;
+	margin: 4%;
+	font-size: 1em;
+	color: white;
+	background-color: #f36d45;
+}
+
+nav li {
+	text-align: center;
+	margin: 0%;
+	font-size: 0.5em;
+	display: inline;
+	float: center;
+	height: 30%;
+	width: 80%;
+}
+
+
+li {
+  display: inline;
+  padding-right: 6%;
+  float: center;
+}
+
+ img {
+ 	width: 30%;
+ 	height: 30%;
+ 	padding-bottom: 2%;
+ 	padding-left: 2%;
+ }
+
+.fotos img:hover {
+	opacity: .5;
+}
+
+.banner img{
+	width: 95%;
+	height: 50%;
+}
+
+div {
+	padding-left: 1.6%;
+	padding-right: 1%;
+}
+
+

@@ -1,0 +1,113 @@
+	body {
+		width: 990px;
+		height: 597px;
+		margin: 0px;
+	}
+
+		header {
+			width: 990px;
+			height: 250px;
+			background-image: url ("images/cafe.jpg"); 
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-position: center top;
+			margin:0px;
+	}
+
+		article h3 {
+			font-size: 25px;
+			font-weight: bold;
+			font-family: Arial, Helvetica, sans-serif;
+			color: #230b03;
+			margin:0px;
+	}
+	
+
+
+		article {
+			margin-bottom: 20px;
+			margin-right: 50px; 		
+			margin-left: 65px;
+			width: 370px;
+			float: left;
+			margin: 0px;
+	}
+
+		p {
+			color: #230b03;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			text-align: justify;
+			margin:0px;
+		}
+
+		section {
+			padding-top: 20px;
+			padding-bottom: 20px;
+			margin:0px;
+
+		}
+
+		a {
+			color: #ffffff;
+			font-size: 15 px;
+			font-family: Arial, Helvetica, sans-serif;
+			margin:0px;
+		}
+	
+	 	a:hover {
+			color: #230b03;
+			font-size: 14px;
+			background-color: #8a6145;
+			text-decoration: none;
+			margin:0px;
+
+		nav {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 14px;
+			color:#ffffff;
+			background-color: #230b03;
+			width: 990px;
+			height: 34px;
+			margin:0px;
+
+		}
+		
+		nav ul {
+			text-align: center;
+			margin: 0px;
+		}
+		
+		nav ul li {
+			padding: 10px;
+			font-size: 14px;
+			font-family: Arial, Helvetica, sans-serif;
+			display: inline-block;
+			margin: 0px;
+		}
+
+		footer {
+			color:#ffffff;
+			background-color: #230b03;
+			clear: both;
+			height: 35px;
+			margin: 0px;
+			}
+
+		footer p {
+			color:#808080;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			padding-left: 10px;
+			padding-top: 10px;
+			margin: 0px;
+		}
+
+
+
+
+	
+
+
+
+
